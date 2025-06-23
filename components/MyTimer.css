@@ -1,0 +1,10 @@
+.button {
+}
+
+
+
+.my-custom-icon-style {
+  stroke: blue; /* Or any color you want */
+  width: 32px;  /* Example: change size */
+  height: 32px; /* Example: change size */
+}
